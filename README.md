@@ -1,6 +1,7 @@
 # Real State Analysis for House Rocket 
 
-![img/logoreadme.png](img/logoreadme.png)
+<a href="https://github.com/charlleskleber/Real-State-Analysis-for-HouseRocket">
+	<img src="https://github.com/charlleskleber/Real-State-Analysis-for-HouseRocket/blob/main/img/logoreadme.png" alt="drawing" align="center" width="130%"/>
 
 # 1. Business Challenge
 
